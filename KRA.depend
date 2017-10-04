@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1495566866 source:c:\summation\kra\main.cpp
+	<iostream>
+	"implement.cpp"
+
+1495566578 c:\summation\kra\implement.cpp
+	"classheader.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1495566640 c:\summation\kra\classheader.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
